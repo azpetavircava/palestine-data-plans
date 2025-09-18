@@ -64,3 +64,10 @@ layout: default
 1.  重启手机。
 2.  关闭Wi-Fi，用移动数据打开浏览器访问任意网站（如google.com）。
 3.  如果弹窗要求登录，输入运营商
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Palestine SIM 卡购买与激活指南](https://faciylike.github.io/palestine-sim-guides)
